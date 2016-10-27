@@ -1,6 +1,6 @@
-# WebPack Simple - Vue.js
+# Material Calendar
 
-> A Vue.js project
+> A calendar made with material design guidelines and VueJS
 
 ## Build Setup
 
@@ -15,6 +15,3 @@ npm run dev
 npm run build
 ```
 
-Included [vue-router](https://github.com/vuejs/vue-router).
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
